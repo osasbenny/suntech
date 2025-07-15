@@ -123,7 +123,7 @@ const Home = () => {
               />
               <div className="absolute -top-4 -left-4 bg-solar-green text-white p-4 rounded-lg shadow-lg">
                 <p className="text-sm font-semibold">Iowa Leader</p>
-                <p className="text-2xl font-bold">Since 2009</p>
+                <p className="text-2xl font-bold">Since 2017</p>
               </div>
             </div>
           </div>
